@@ -41,7 +41,7 @@ a.externo::after {
 
 header {
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
-    height: 150px;
+    height: 200px;
     text-align: center;
     padding-top: 40px;
     
@@ -50,7 +50,7 @@ header {
 header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     font-size: 3em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.404);
     font-weight: normal;
@@ -76,9 +76,9 @@ nav {
 }
 
 nav > a {
-    font-size: 14px;
+    font-size: 15px;
     color: var(--cor1);
-    padding: 10px;
+    padding: 11px;
     text-decoration: none;
     font-weight: bold;
 }
