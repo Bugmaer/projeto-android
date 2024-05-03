@@ -76,6 +76,7 @@ nav {
 }
 
 nav > a {
+    font-size: 14px;
     color: var(--cor1);
     padding: 10px;
     text-decoration: none;
